@@ -1,0 +1,9 @@
+sample-id,absolute-filepath,direction
+SRR1976948,/full/path/fastq/SRR1976948_1.fastq.gz,forward
+SRR1976948,/full/path/fastq/SRR1976948_2.fastq.gz,reverse
+SRR1976949,/full/path/fastq/SRR1976949_1.fastq.gz,forward
+SRR1976949,/full/path/fastq/SRR1976949_2.fastq.gz,reverse
+SRR1976950,/full/path/fastq/SRR1976950_1.fastq.gz,forward
+SRR1976950,/full/path/fastq/SRR1976950_2.fastq.gz,reverse
+SRR1976951,/full/path/fastq/SRR1976951_1.fastq.gz,forward
+SRR1976951,/full/path/fastq/SRR1976951_2.fastq.gz,reverse
