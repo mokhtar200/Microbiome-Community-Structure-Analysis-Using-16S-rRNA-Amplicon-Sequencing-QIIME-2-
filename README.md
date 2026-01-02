@@ -14,12 +14,6 @@ The project starts from **raw Illumina paired-end FASTQ files downloaded from NC
 * Alpha and beta diversity analysis
 * Statistical testing and visualization
 
-This repository is suitable for:
-
-* Teaching & workshops
-* Bioinformatics portfolios
-* Microbiome research projects
-
 ---
 
 ##  Dataset Information 
