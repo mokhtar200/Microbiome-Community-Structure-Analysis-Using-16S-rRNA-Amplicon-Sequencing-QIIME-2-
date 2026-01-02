@@ -22,7 +22,7 @@ This repository is suitable for:
 
 ---
 
-##  Dataset Information (REAL DATA)
+##  Dataset Information 
 
 **BioProject:** PRJNA278478
 **Data type:** 16S rRNA amplicon sequencing
