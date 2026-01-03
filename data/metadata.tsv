@@ -1,5 +1,224 @@
-#SampleID	Treatment	SampleType
-SRR1976948	Control	Mock
-SRR1976949	Control	Mock
-SRR1976950	Treated	Mock
-SRR1976951	Treated	Mock
+#SampleID env_medium	gastrointest_disord	host_disease	HOST	host_sex	host_subject_id	Organism	host_age
+SRR8534033	feces	UC	UC	NA	female	8134	human gut metagenome	71
+SRR8534034	feces	CD	CD	NA	female	8124	human gut metagenome	44
+SRR8534035	feces	CD	CD	NA	female	8102	human gut metagenome	
+SRR8534036	feces	CD	CD	NA	female	8101	human gut metagenome	
+SRR8534037	feces	CD	CD	NA	female	8114	human gut metagenome	70
+SRR8534038	feces	CD	CD	NA	female	8102	human gut metagenome	
+SRR8534039	feces	CD	CD	NA	female	8123	human gut metagenome	19
+SRR8534040	feces	CD	CD	NA	female	8114	human gut metagenome	70
+SRR8534041	feces	CD	CD	NA	female	8124	human gut metagenome	44
+SRR8534042	feces	CD	CD	NA	female	8124	human gut metagenome	44
+SRR8534043	feces	HC	HC	Homo sapiens	male	2022	human gut metagenome	52
+SRR8534044	feces	HC	HC	Homo sapiens	male	2008	human gut metagenome	30
+SRR8534045	feces	HC	HC	Homo sapiens	male	2006	human gut metagenome	38
+SRR8534046	feces	HC	HC	Homo sapiens	male	2012	human gut metagenome	29
+SRR8534047	feces	HC	HC	Homo sapiens	female	2001	human gut metagenome	46
+SRR8534048	feces	RA	RA	Homo sapiens	female	1331	human gut metagenome	57
+SRR8534049	feces	HC	HC	Homo sapiens	male	2006	human gut metagenome	38
+SRR8534050	feces	HC	HC	Homo sapiens	female	2001	human gut metagenome	46
+SRR8534051	feces	RA	RA	Homo sapiens	male	1257	human gut metagenome	63
+SRR8534052	feces	RA	RA	Homo sapiens	male	1257	human gut metagenome	63
+SRR8534053	feces	RA	RA	Homo sapiens	female	1331	human gut metagenome	57
+SRR8534054	feces	RA	RA	Homo sapiens	male	1257	human gut metagenome	63
+SRR8534055	feces	CD	CD	Homo sapiens	female	2201	human gut metagenome	28
+SRR8534056	feces	UC	UC	Homo sapiens	female	3020	human gut metagenome	48
+SRR8534057	feces	CD	CD	Homo sapiens	female	2196	human gut metagenome	71
+SRR8534058	feces	CD	CD	Homo sapiens	female	2201	human gut metagenome	28
+SRR8534059	feces	UC	UC	Homo sapiens	female	3030	human gut metagenome	43
+SRR8534060	feces	UC	UC	Homo sapiens	male	3041	human gut metagenome	46
+SRR8534061	feces	UC	UC	Homo sapiens	female	3020	human gut metagenome	48
+SRR8534062	feces	UC	UC	Homo sapiens	female	3030	human gut metagenome	43
+SRR8534063	feces	UC	UC	Homo sapiens	male	3041	human gut metagenome	46
+SRR8534064	feces	UC	UC	Homo sapiens	male	3042	human gut metagenome	53
+SRR8534065	feces	HC	HC	Homo sapiens	female	2043	human gut metagenome	25
+SRR8534066	feces	MS	MS	NA	female	5024	human gut metagenome	54
+SRR8534067	feces	MS	MS	NA	female	5025	human gut metagenome	53
+SRR8534068	feces	MS	MS	NA	female	5025	human gut metagenome	53
+SRR8534069	feces	UC	UC	NA	male	8077	human gut metagenome	29
+SRR8534070	feces	MS	MS	NA	female	5021	human gut metagenome	
+SRR8534071	feces	MS	MS	NA	female	5023	human gut metagenome	47
+SRR8534072	feces	MS	MS	NA	female	5023	human gut metagenome	47
+SRR8534073	feces	MS	MS	NA	female	5024	human gut metagenome	54
+SRR8534074	feces	CD	CD	Homo sapiens	male	2037	human gut metagenome	42
+SRR8534075	feces	UC	UC	NA	male	8077	human gut metagenome	29
+SRR8534076	feces	CD	CD	NA	female	8101	human gut metagenome	
+SRR8534077	feces	HC	HC	Homo sapiens	female	2026	human gut metagenome	34
+SRR8534078	na	NA	NA	NA	not applicable	H2O3	human gut metagenome	na
+SRR8534079	feces	HC	HC	Homo sapiens	female	2014	human gut metagenome	22
+SRR8534080	feces	HC	HC	Homo sapiens	female	2014	human gut metagenome	22
+SRR8534081	feces	HC	HC	Homo sapiens	female	2013	human gut metagenome	56
+SRR8534082	feces	HC	HC	Homo sapiens	female	2013	human gut metagenome	56
+SRR8534083	feces	RA	RA	Homo sapiens	female	1021	human gut metagenome	59
+SRR8534084	feces	HC	HC	Homo sapiens	male	2012	human gut metagenome	29
+SRR8534085	feces	CD	CD	Homo sapiens	female	2011	human gut metagenome	27
+SRR8534086	feces	CD	CD	Homo sapiens	female	2011	human gut metagenome	27
+SRR8534087	feces	HC	HC	Homo sapiens	male	2008	human gut metagenome	30
+SRR8534088	feces	CD	CD	Homo sapiens	female	2011	human gut metagenome	27
+SRR8534089	feces	CD	CD	Homo sapiens	female	2084	human gut metagenome	52
+SRR8534090	feces	HC	HC	Homo sapiens	female	2064	human gut metagenome	
+SRR8534091	feces	CD	CD	Homo sapiens	female	2093	human gut metagenome	36
+SRR8534092	feces	CD	CD	Homo sapiens	female	2084	human gut metagenome	52
+SRR8534093	feces	CD	CD	Homo sapiens	female	2093	human gut metagenome	36
+SRR8534094	feces	CD	CD	Homo sapiens	female	2093	human gut metagenome	36
+SRR8534095	feces	CD	CD	Homo sapiens	male	2101	human gut metagenome	67
+SRR8534096	feces	CD	CD	Homo sapiens	male	2101	human gut metagenome	67
+SRR8534097	feces	CD	CD	Homo sapiens	female	2196	human gut metagenome	71
+SRR8534098	feces	CD	CD	Homo sapiens	female	2196	human gut metagenome	71
+SRR8534099	feces	HC	HC	Homo sapiens	female	2020	human gut metagenome	26
+SRR8534100	feces	HC	HC	Homo sapiens	female	2020	human gut metagenome	26
+SRR8534101	feces	MS	MS	Homo sapiens	female	5017	human gut metagenome	61
+SRR8534102	feces	MS	MS	Homo sapiens	female	5016	human gut metagenome	33
+SRR8534103	feces	MS	MS	Homo sapiens	female	5016	human gut metagenome	33
+SRR8534104	feces	MS	MS	Homo sapiens	female	5014	human gut metagenome	48
+SRR8534105	feces	MS	MS	NA	male	5019	human gut metagenome	51
+SRR8534106	feces	MS	MS	NA	female	5018	human gut metagenome	40
+SRR8534107	feces	MS	MS	Homo sapiens	female	5018	human gut metagenome	40
+SRR8534108	feces	MS	MS	Homo sapiens	female	5017	human gut metagenome	61
+SRR8534109	feces	HC	HC	Homo sapiens	male	2030	human gut metagenome	26
+SRR8534110	feces	MS	MS	NA	female	5021	human gut metagenome	
+SRR8534111	feces	MS	MS	NA	male	5019	human gut metagenome	51
+SRR8534112	feces	RA	RA	Homo sapiens	female	1160	human gut metagenome	38
+SRR8534113	feces	RA	RA	Homo sapiens	female	1160	human gut metagenome	38
+SRR8534114	feces	HC	HC	Homo sapiens	female	2048	human gut metagenome	28
+SRR8534115	feces	RA	RA	Homo sapiens	female	1138	human gut metagenome	73
+SRR8534116	feces	RA	RA	Homo sapiens	female	1138	human gut metagenome	73
+SRR8534117	feces	RA	RA	Homo sapiens	female	1128	human gut metagenome	69
+SRR8534118	feces	RA	RA	Homo sapiens	female	1128	human gut metagenome	69
+SRR8534119	feces	RA	RA	Homo sapiens	male	1148	human gut metagenome	69
+SRR8534120	feces	RA	RA	Homo sapiens	male	1148	human gut metagenome	69
+SRR8534121	feces	RA	RA	Homo sapiens	male	1140	human gut metagenome	63
+SRR8534122	feces	RA	RA	Homo sapiens	male	1140	human gut metagenome	63
+SRR8534123	feces	HC	HC	Homo sapiens	female	2063	human gut metagenome	
+SRR8534124	feces	CD	CD	NA	missing	8500	human gut metagenome	
+SRR8534125	feces	CD	CD	NA	female	8407	human gut metagenome	49
+SRR8534126	feces	UC	UC	NA	female	8702	human gut metagenome	58
+SRR8534127	feces	HC	HC	Homo sapiens	male	2046	human gut metagenome	34
+SRR8534128	feces	UC	UC	NA	female	8702	human gut metagenome	58
+SRR8534129	na	NA	NA	NA	not applicable	MOCK2	human gut metagenome	na
+SRR8534130	na	NA	NA	NA	not applicable	MOCK1	human gut metagenome	na
+SRR8534131	feces	CD	CD	Homo sapiens	female	2057	human gut metagenome	52
+SRR8534132	na	NA	NA	NA	not applicable	MOCK4	human gut metagenome	na
+SRR8534133	feces	HC	HC	Homo sapiens	male	2061	human gut metagenome	
+SRR8534134	na	NA	NA	NA	not applicable	MOCK3	human gut metagenome	na
+SRR8534135	feces	RA	RA	Homo sapiens	female	1204	human gut metagenome	69
+SRR8534136	feces	RA	RA	Homo sapiens	female	1204	human gut metagenome	69
+SRR8534137	feces	RA	RA	Homo sapiens	female	1204	human gut metagenome	69
+SRR8534138	feces	RA	RA	Homo sapiens	male	1235	human gut metagenome	58
+SRR8534139	feces	RA	RA	Homo sapiens	female	1173	human gut metagenome	57
+SRR8534140	feces	RA	RA	Homo sapiens	female	1173	human gut metagenome	57
+SRR8534141	feces	RA	RA	Homo sapiens	male	1198	human gut metagenome	77
+SRR8534142	feces	RA	RA	Homo sapiens	male	1198	human gut metagenome	77
+SRR8534143	feces	HC	HC	Homo sapiens	male	2046	human gut metagenome	34
+SRR8534144	feces	RA	RA	Homo sapiens	male	1235	human gut metagenome	58
+SRR8534145	feces	RA	RA	Homo sapiens	male	1235	human gut metagenome	58
+SRR8534146	feces	HC	HC	Homo sapiens	female	2063	human gut metagenome	
+SRR8534147	feces	HC	HC	Homo sapiens	male	2061	human gut metagenome	
+SRR8534148	feces	HC	HC	Homo sapiens	female	2062	human gut metagenome	
+SRR8534149	feces	RA	RA	Homo sapiens	female	1021	human gut metagenome	59
+SRR8534150	na	NA	NA	NA	not applicable	H2O4	human gut metagenome	na
+SRR8534151	feces	RA	RA	Homo sapiens	female	1003	human gut metagenome	61
+SRR8534152	feces	RA	RA	Homo sapiens	female	1003	human gut metagenome	61
+SRR8534153	feces	RA	RA	Homo sapiens	female	1025	human gut metagenome	55
+SRR8534154	feces	RA	RA	Homo sapiens	female	1025	human gut metagenome	55
+SRR8534155	feces	RA	RA	Homo sapiens	female	1024	human gut metagenome	60
+SRR8534156	feces	RA	RA	Homo sapiens	female	1024	human gut metagenome	60
+SRR8534157	feces	RA	RA	Homo sapiens	female	1027	human gut metagenome	49
+SRR8534158	feces	RA	RA	Homo sapiens	female	1027	human gut metagenome	49
+SRR8534159	feces	HC	HC	Homo sapiens	male	2049	human gut metagenome	32
+SRR8534160	feces	HC	HC	Homo sapiens	female	2048	human gut metagenome	28
+SRR8534161	feces	MS	MS	Homo sapiens	female	5013	human gut metagenome	54
+SRR8534162	feces	MS	MS	Homo sapiens	female	5014	human gut metagenome	48
+SRR8534163	feces	MS	MS	Homo sapiens	female	5013	human gut metagenome	54
+SRR8534164	feces	MS	MS	Homo sapiens	female	5013	human gut metagenome	54
+SRR8534165	feces	MS	MS	Homo sapiens	female	5011	human gut metagenome	50
+SRR8534166	feces	MS	MS	Homo sapiens	female	5011	human gut metagenome	50
+SRR8534167	feces	MS	MS	Homo sapiens	female	5010	human gut metagenome	54
+SRR8534168	feces	MS	MS	Homo sapiens	female	5011	human gut metagenome	50
+SRR8534169	feces	MS	MS	Homo sapiens	male	5009	human gut metagenome	24
+SRR8534170	feces	MS	MS	Homo sapiens	female	5010	human gut metagenome	54
+SRR8534171	feces	CD	CD	Homo sapiens	female	2023	human gut metagenome	25
+SRR8534172	feces	CD	CD	Homo sapiens	male	2037	human gut metagenome	42
+SRR8534173	feces	HC	HC	Homo sapiens	male	2031	human gut metagenome	26
+SRR8534174	feces	RA	RA	Homo sapiens	male	1071	human gut metagenome	71
+SRR8534175	feces	RA	RA	Homo sapiens	male	1071	human gut metagenome	71
+SRR8534176	feces	RA	RA	Homo sapiens	female	1028	human gut metagenome	58
+SRR8534177	feces	RA	RA	Homo sapiens	female	1028	human gut metagenome	58
+SRR8534178	feces	RA	RA	Homo sapiens	male	1091	human gut metagenome	61
+SRR8534179	feces	RA	RA	Homo sapiens	male	1091	human gut metagenome	61
+SRR8534180	feces	RA	RA	Homo sapiens	female	1075	human gut metagenome	76
+SRR8534181	feces	RA	RA	Homo sapiens	female	1075	human gut metagenome	76
+SRR8534182	feces	HC	HC	Homo sapiens	male	2049	human gut metagenome	32
+SRR8534183	feces	RA	RA	Homo sapiens	female	1113	human gut metagenome	65
+SRR8534184	feces	RA	RA	Homo sapiens	female	1113	human gut metagenome	65
+SRR8534185	feces	HC	HC	Homo sapiens	male	2021	human gut metagenome	28
+SRR8534186	feces	HC	HC	Homo sapiens	male	2019	human gut metagenome	26
+SRR8534187	feces	HC	HC	Homo sapiens	female	2043	human gut metagenome	25
+SRR8534188	feces	HC	HC	Homo sapiens	female	2064	human gut metagenome	
+SRR8534189	feces	MS	MS	Homo sapiens	male	5009	human gut metagenome	24
+SRR8534190	feces	MS	MS	Homo sapiens	female	5008	human gut metagenome	57
+SRR8534191	feces	MS	MS	Homo sapiens	female	5007	human gut metagenome	44
+SRR8534192	feces	MS	MS	Homo sapiens	female	5006	human gut metagenome	51
+SRR8534193	feces	MS	MS	Homo sapiens	female	5008	human gut metagenome	57
+SRR8534194	feces	MS	MS	Homo sapiens	female	5007	human gut metagenome	44
+SRR8534195	feces	MS	MS	Homo sapiens	male	5003	human gut metagenome	24
+SRR8534196	feces	MS	MS	Homo sapiens	female	5002	human gut metagenome	53
+SRR8534197	feces	MS	MS	Homo sapiens	female	5006	human gut metagenome	51
+SRR8534198	feces	MS	MS	Homo sapiens	male	5003	human gut metagenome	24
+SRR8534199	feces	UC	UC	NA	female	8399	human gut metagenome	55
+SRR8534200	feces	CD	CD	NA	female	8407	human gut metagenome	49
+SRR8534201	feces	UC	UC	NA	male	8225	human gut metagenome	66
+SRR8534202	feces	UC	UC	NA	female	8236	human gut metagenome	58
+SRR8534203	feces	CD	CD	NA	female	8200	human gut metagenome	64
+SRR8534204	feces	UC	UC	NA	male	8225	human gut metagenome	66
+SRR8534205	feces	UC	UC	NA	female	8277	human gut metagenome	67
+SRR8534206	feces	UC	UC	NA	female	8399	human gut metagenome	55
+SRR8534207	feces	UC	UC	NA	female	8236	human gut metagenome	58
+SRR8534208	feces	UC	UC	NA	female	8277	human gut metagenome	67
+SRR8534209	feces	HC	HC	Homo sapiens	male	2021	human gut metagenome	28
+SRR8534210	feces	HC	HC	Homo sapiens	male	2022	human gut metagenome	52
+SRR8534211	feces	MS	MS	Homo sapiens	male	5001	human gut metagenome	53
+SRR8534212	feces	MS	MS	Homo sapiens	female	5002	human gut metagenome	53
+SRR8534213	feces	HC	HC	Homo sapiens	male	2019	human gut metagenome	26
+SRR8534214	feces	HC	HC	Homo sapiens	male	2019	human gut metagenome	26
+SRR8534215	feces	HC	HC	Homo sapiens	female	2018	human gut metagenome	27
+SRR8534216	feces	HC	HC	Homo sapiens	female	2018	human gut metagenome	27
+SRR8534217	feces	HC	HC	Homo sapiens	female	2015	human gut metagenome	25
+SRR8534218	feces	HC	HC	Homo sapiens	female	2015	human gut metagenome	25
+SRR8534219	feces	UC	UC	Homo sapiens	male	3258	human gut metagenome	49
+SRR8534220	feces	UC	UC	Homo sapiens	male	3258	human gut metagenome	49
+SRR8534221	feces	UC	UC	Homo sapiens	female	3275	human gut metagenome	57
+SRR8534222	feces	UC	UC	Homo sapiens	female	3275	human gut metagenome	57
+SRR8534223	feces	UC	UC	Homo sapiens	female	3295	human gut metagenome	52
+SRR8534224	feces	UC	UC	Homo sapiens	female	3295	human gut metagenome	52
+SRR8534225	feces	UC	UC	Homo sapiens	female	3295	human gut metagenome	52
+SRR8534226	feces	MS	MS	Homo sapiens	male	5001	human gut metagenome	53
+SRR8534227	na	NA	NA	NA	not applicable	H2O2	human gut metagenome	na
+SRR8534228	na	NA	NA	NA	not applicable	H2O1	human gut metagenome	na
+SRR8534229	feces	CD	CD	NA	male	8182	human gut metagenome	47
+SRR8534230	feces	CD	CD	NA	male	8182	human gut metagenome	47
+SRR8534231	feces	CD	CD	Homo sapiens	female	2023	human gut metagenome	25
+SRR8534232	feces	UC	UC	NA	male	8136	human gut metagenome	66
+SRR8534233	feces	CD	CD	NA	male	8160	human gut metagenome	49
+SRR8534234	feces	UC	UC	NA	female	8134	human gut metagenome	71
+SRR8534235	feces	UC	UC	NA	male	8136	human gut metagenome	66
+SRR8534236	feces	CD	CD	NA	male	8170	human gut metagenome	66
+SRR8534237	feces	CD	CD	NA	male	8170	human gut metagenome	66
+SRR8534238	feces	CD	CD	NA	male	8160	human gut metagenome	49
+SRR8534239	feces	CD	CD	NA	male	8170	human gut metagenome	66
+SRR8534240	feces	HC	HC	Homo sapiens	female	2026	human gut metagenome	34
+SRR8534241	feces	CD	CD	Homo sapiens	female	2057	human gut metagenome	52
+SRR8534242	feces	UC	UC	Homo sapiens	male	3157	human gut metagenome	44
+SRR8534243	feces	UC	UC	Homo sapiens	male	3157	human gut metagenome	44
+SRR8534244	feces	UC	UC	Homo sapiens	male	3074	human gut metagenome	29
+SRR8534245	feces	UC	UC	Homo sapiens	male	3074	human gut metagenome	29
+SRR8534246	feces	UC	UC	Homo sapiens	male	3074	human gut metagenome	29
+SRR8534247	feces	UC	UC	Homo sapiens	female	3057	human gut metagenome	27
+SRR8534248	feces	UC	UC	Homo sapiens	female	3057	human gut metagenome	27
+SRR8534249	feces	UC	UC	Homo sapiens	male	3042	human gut metagenome	53
+SRR8534250	feces	HC	HC	Homo sapiens	male	2030	human gut metagenome	26
+SRR8534251	feces	HC	HC	Homo sapiens	male	2031	human gut metagenome	26
+SRR8534252	feces	HC	HC	Homo sapiens	female	2062	human gut metagenome	
+SRR8534253	feces	UC	UC	Homo sapiens	female	3254	human gut metagenome	56
+SRR8534254	feces	UC	UC	Homo sapiens	female	3254	human gut metagenome	56
+
