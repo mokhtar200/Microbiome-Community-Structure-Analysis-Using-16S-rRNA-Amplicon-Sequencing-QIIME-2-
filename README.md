@@ -147,7 +147,7 @@ The script includes:
 
 ---
 
-## 🔬 Biological Interpretation (Key Questions)
+## Biological Interpretation (Key Questions)
 
 * Do immune‑mediated inflammatory diseases share common gut dysbiosis patterns?
 * Which taxa are uniquely enriched or depleted per disease?
